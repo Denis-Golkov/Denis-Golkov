@@ -16,24 +16,34 @@
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFF2CC?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-E1F5FE?style=flat-square&logo=typescript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-E8F5E8?style=flat-square&logo=python&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-FFE5E5?style=flat-square&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS3-E3F2FD?style=flat-square&logo=css3&logoColor=black)
-![Sass](https://img.shields.io/badge/-Sass-F3E5F5?style=flat-square&logo=sass&logoColor=black)
-
-### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/-Node.js-E8F5E8?style=flat-square&logo=node.js&logoColor=black)
-![Express.js](https://img.shields.io/badge/-Express.js-F5F5F5?style=flat-square&logo=express&logoColor=black)
-![React](https://img.shields.io/badge/-React-E1F5FE?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-F5F5F5?style=flat-square&logo=next.js&logoColor=black)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+  ![Git          ](https://img.shields.io/badge/Git-1?logo=git&logoColor=white&labelColor=black&color=black)
+  ![Bash         ](https://img.shields.io/badge/Bash-1?logo=gnubash&logoColor=white&labelColor=black&color=black)
+  ![NodeJS       ](https://img.shields.io/badge/Nodejs-codewizard?logo=node.js&logoColor=white&labelColor=black&color=black)
+  ![JavaScript   ](https://img.shields.io/badge/JavaScript-1?logo=javascript&logoColor=white&labelColor=black&color=black)
+  ![CSS3         ](https://img.shields.io/badge/CSS3-1?logo=css3&logoColor=white&labelColor=black&color=black)
+  <br/>
+  ![HTML5        ](https://img.shields.io/badge/HTML5-1?logo=html5&logoColor=white&labelColor=black&color=black)
+  ![Docker       ](https://img.shields.io/badge/Docker-1?logo=docker&logoColor=white&labelColor=black&color=black)
+  ![Kubernetes   ](https://img.shields.io/badge/Kubernetes-1?logo=kubernetes&logoColor=white&labelColor=black&color=black)
+  ![Prometheus   ](https://img.shields.io/badge/Prometheus-1?logo=prometheus&logoColor=white&labelColor=black&color=black)
+  ![Grafana      ](https://img.shields.io/badge/Grafana-1?logo=grafana&logoColor=white&labelColor=black&color=black)
+  ![Linux        ](https://img.shields.io/badge/linux-1?logo=linux&logoColor=white&labelColor=black&color=black)
+  ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-1?logo=githubactions&logoColor=white&labelColor=black&color=black)
+  ![Github       ](https://img.shields.io/badge/GitHub-1?logo=github&logoColor=white&labelColor=black&color=black)
+  ![GitLab       ](https://img.shields.io/badge/GitLab-1?logo=gitlab&logoColor=white&labelColor=black&color=black)
+  <br/>
+  ![Jenkins      ](https://img.shields.io/badge/Jenkins-1?logo=jenkins&logoColor=white&labelColor=black&color=black)
+  ![Git Ignore   ](https://img.shields.io/badge/gitignore-1?logo=gitignore.io&logoColor=white&labelColor=black&color=black)
+  ![Python       ](https://img.shields.io/badge/Python-1?logo=python&logoColor=white&labelColor=black&color=black)
+  ![Ansible      ](https://img.shields.io/badge/Ansible-1?logo=Ansible&logoColor=white&labelColor=black&color=black)
+  ![Elastic      ](https://img.shields.io/badge/Elastic-1?logo=elastic&logoColor=white&labelColor=black&color=black)
+  ![Terraform    ](https://img.shields.io/badge/Terraform-1?logo=Terraform&logoColor=white&labelColor=black&color=black)
+  ![Kibana       ](https://img.shields.io/badge/Kibana-1?logo=Kibana&logoColor=white&labelColor=black&color=black)
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
