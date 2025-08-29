@@ -50,21 +50,6 @@
 
 </div>
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Denis-Golkov&theme=radical&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=Denis-Golkov&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
 
 ## 📈 Activity Graph
 
