@@ -1,4 +1,7 @@
-# Denis Golkov GitHub Profile
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&text=Denis%20Golkov%20Github%20Profile&reversal=false&textBg=false&fontAlign=50&rotate=-3&descAlign=30&section=header&fontSize=40"/>
+</p>
+
 
 <div align="center">
   <img src="https://github.com/Denis-Golkov.png" width="100" height="100" style="border-radius: 50%" alt="Denis Golkov"/>
@@ -47,7 +50,7 @@
 
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-Aws-DC382D?style=flat-square&logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-DC382D?style=flat-square&logo=aws&logoColor=white)
 
 ## 🤝 Connect With Me
 
