@@ -48,7 +48,7 @@
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Aws](https://img.shields.io/badge/-Aws-DC382D?style=flat-square&logo=aws&logoColor=white)
 
 ## 📊 GitHub Stats
 
