@@ -46,9 +46,8 @@
   ![Kibana       ](https://img.shields.io/badge/Kibana-1?logo=Kibana&logoColor=white&labelColor=black&color=black)
 
 ### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Aws](https://img.shields.io/badge/-Aws-DC382D?style=flat-square&logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-Aws-DC382D?style=flat-square&logo=aws&logoColor=white)
 
 ## 📊 GitHub Stats
 
