@@ -49,25 +49,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Aws-DC382D?style=flat-square&logo=aws&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-Golkov&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Golkov&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-![Denis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Denis-Golkov&theme=react-dark&hide_border=true)
-
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
