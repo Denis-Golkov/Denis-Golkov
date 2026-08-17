@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&text=Denis%20Golkov%20Github%20Profile&reversal=false&textBg=false&fontAlign=50&rotate=-3&descAlign=30&section=header&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&text=Denis%20Golkov%20Github%20Profile&reversal=false&textBg=false&fontAlign=50&rotate=-3&descAlign=30&section=header&fontSize=40"/>
 </p>
 
 
@@ -24,7 +24,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-FFE5E5?style=flat-square&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS3-E3F2FD?style=flat-square&logo=css3&logoColor=black)
 
-### Tools & Platforms
+### Tools, Platforms, Databases & Cloud
   ![Git          ](https://img.shields.io/badge/Git-1?logo=git&logoColor=white&labelColor=black&color=black)
   ![Bash         ](https://img.shields.io/badge/Bash-1?logo=gnubash&logoColor=white&labelColor=black&color=black)
   ![NodeJS       ](https://img.shields.io/badge/Nodejs-codewizard?logo=node.js&logoColor=white&labelColor=black&color=black)
@@ -48,10 +48,8 @@
   ![Elastic      ](https://img.shields.io/badge/Elastic-1?logo=elastic&logoColor=white&labelColor=black&color=black)
   ![Terraform    ](https://img.shields.io/badge/Terraform-1?logo=Terraform&logoColor=white&labelColor=black&color=black)
   ![Kibana       ](https://img.shields.io/badge/Kibana-1?logo=Kibana&logoColor=white&labelColor=black&color=black)
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-DC382D?style=flat-square&logo=aws&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-DC382D?style=flat-square&logo=aws&logoColor=white)
 
 ## 🤝 Connect With Me
 
