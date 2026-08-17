@@ -30,7 +30,6 @@
   ![NodeJS       ](https://img.shields.io/badge/Nodejs-codewizard?logo=node.js&logoColor=white&labelColor=black&color=black)
   ![JavaScript   ](https://img.shields.io/badge/JavaScript-1?logo=javascript&logoColor=white&labelColor=black&color=black)
   ![CSS3         ](https://img.shields.io/badge/CSS3-1?logo=css3&logoColor=white&labelColor=black&color=black)
-  <br/>
   ![HTML5        ](https://img.shields.io/badge/HTML5-1?logo=html5&logoColor=white&labelColor=black&color=black)
   ![Docker       ](https://img.shields.io/badge/Docker-1?logo=docker&logoColor=white&labelColor=black&color=black)
   ![Kubernetes   ](https://img.shields.io/badge/Kubernetes-1?logo=kubernetes&logoColor=white&labelColor=black&color=black)
@@ -40,7 +39,6 @@
   ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-1?logo=githubactions&logoColor=white&labelColor=black&color=black)
   ![Github       ](https://img.shields.io/badge/GitHub-1?logo=github&logoColor=white&labelColor=black&color=black)
   ![GitLab       ](https://img.shields.io/badge/GitLab-1?logo=gitlab&logoColor=white&labelColor=black&color=black)
-  <br/>
   ![Jenkins      ](https://img.shields.io/badge/Jenkins-1?logo=jenkins&logoColor=white&labelColor=black&color=black)
   ![Git Ignore   ](https://img.shields.io/badge/gitignore-1?logo=gitignore.io&logoColor=white&labelColor=black&color=black)
   ![Python       ](https://img.shields.io/badge/Python-1?logo=python&logoColor=white&labelColor=black&color=black)
