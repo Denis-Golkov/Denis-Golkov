@@ -1,66 +1,44 @@
-#
+<p align="center">
+  <img src="https://vercel.app" alt="Denis Golkov Profile Banner"/>
+</p>
 
-![Denis Golkov Profile Banner](https://vercel.app)
-
-<div align="center">
+<p align="center">
   <img src="https://github.com" width="100" height="100" style="border-radius: 50%" alt="Denis Golkov"/>
-</div>
+</p>
 
-<div align="center">
-  
-[![GitHub followers](https://shields.io)](https://github.com)
-[![GitHub stars](https://shields.io)](https://github.com)
-[![Profile views](https://komarev.com)](https://github.com)
-
-</div>
+<p align="center">
+  <a href="https://github.com"><img src="https://shields.io" alt="GitHub followers"/></a>
+  <a href="https://github.com"><img src="https://shields.io" alt="GitHub stars"/></a>
+  <a href="https://github.com"><img src="https://komarev.com" alt="Profile views"/></a>
+</p>
 
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+<img src="https://shields.io" alt="JavaScript"/> <img src="https://shields.io" alt="Python"/> <img src="https://shields.io" alt="HTML5"/> <img src="https://shields.io" alt="CSS3"/>
 
 ### Tools & Platforms
-![Git](https://shields.io)
-![Bash](https://shields.io)
-![NodeJS](https://shields.io)
-![JavaScript](https://shields.io)
-![CSS3](https://shields.io)
+<img src="https://shields.io" alt="Git"/> <img src="https://shields.io" alt="Bash"/> <img src="https://shields.io" alt="NodeJS"/> <img src="https://shields.io" alt="JavaScript"/> <img src="https://shields.io" alt="CSS3"/>
+
 <br/>
-![HTML5](https://shields.io)
-![Docker](https://shields.io)
-![Kubernetes](https://shields.io)
-![Prometheus](https://shields.io)
-![Grafana](https://shields.io)
-![Linux](https://shields.io)
-![Github Actions](https://shields.io)
-![Github](https://shields.io)
-![GitLab](https://shields.io)
+
+<img src="https://shields.io" alt="HTML5"/> <img src="https://shields.io" alt="Docker"/> <img src="https://shields.io" alt="Kubernetes"/> <img src="https://shields.io" alt="Prometheus"/> <img src="https://shields.io" alt="Grafana"/> <img src="https://shields.io" alt="Linux"/> <img src="https://shields.io" alt="GitHub Actions"/> <img src="https://shields.io" alt="GitHub"/> <img src="https://shields.io" alt="GitLab"/>
+
 <br/>
-![Jenkins](https://shields.io)
-![Git Ignore](https://shields.io)
-![Python](https://shields.io)
-![Ansible](https://shields.io)
-![Elastic](https://shields.io)
-![Terraform](https://shields.io)
-![Kibana](https://shields.io)
+
+<img src="https://shields.io" alt="Jenkins"/> <img src="https://shields.io" alt="Git Ignore"/> <img src="https://shields.io" alt="Python"/> <img src="https://shields.io" alt="Ansible"/> <img src="https://shields.io" alt="Elastic"/> <img src="https://shields.io" alt="Terraform"/> <img src="https://shields.io" alt="Kibana"/>
 
 ### Databases & Cloud
-![PostgreSQL](https://shields.io)
-![AWS](https://shields.io)
+<img src="https://shields.io" alt="PostgreSQL"/> <img src="https://shields.io" alt="AWS"/>
 
 ## 🤝 Connect With Me
 
-<div align="center">
-  
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"/></a>
+</p>
 
 ---
 
-<div align="center">
-  <i>⭐️ From [Denis-Golkov](https://github.com)</i>
-</div>
+<p align="center">
+  <i>⭐️ From <a href="https://github.com">Denis-Golkov</a></i>
+</p>
