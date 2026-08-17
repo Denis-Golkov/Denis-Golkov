@@ -1,9 +1,6 @@
-
-
 <p align="center"> 
   <img src="https://vercel.app"/> 
 </p>
-
 
 <div align="center">
   <img src="https://github.com/Denis-Golkov.png" width="100" height="100" style="border-radius: 50%" alt="Denis Golkov"/>
