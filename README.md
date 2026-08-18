@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=150&text=Denis%20Golkov&fontColor=FFFFFF&fontAlign=50&rotate=-3&section=header&fontSize=42"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=150&text=Denis%20Golkov&fontColor=FFFFFF&stroke=000000&strokeWidth=2&fontAlign=50&rotate=-3&section=header&fontSize=42"/>
 </p>
 
 
